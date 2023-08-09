@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+![image](https://github.com/khaing17/live-post/assets/93468112/54181f43-0d58-4d60-87f2-4f36ba01eaca)<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
@@ -65,6 +65,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-##DB Structure
-![Alt text](![image](https://github.com/khaing17/live-post/assets/93468112/905c8cfe-a583-4f14-aa5f-4ca2993eb258)
-)
+## DB Structure
+![Alt text]("C:\Users\Aung Thet Khaing\Downloads\db_structure_livepost.drawio.png")
+
