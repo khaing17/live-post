@@ -66,4 +66,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## DB Structure
-![image](https://github.com/khaing17/live-post/assets/93468112/54181f43-0d58-4d60-87f2-4f36ba01eaca)
+![image]("C:\Users\Aung Thet Khaing\Downloads\erd_livepost.drawio.svg")
